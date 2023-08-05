@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicketManagement</string>
+    <string name="order_view_title">Order Ticket</string>
+    <string name="order_button">Order Now</string>
+</resources>
